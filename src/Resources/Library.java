@@ -72,6 +72,34 @@ public class Library {
 
 
 
+
+    public static String uniques(String str){
+        String result = "";
+        for (int i=0; i<str.length(); i++){
+            int num = Frequency(str,str.charAt(i));
+            if (num==1){
+                result += str.charAt(i);
+            }
+        }
+        return result;
+    }
+
+
+
+
+    public static int Frequency(String str, char ch){
+        char[] arr = str.toCharArray();   // [A, A, A]
+        int count = 0;
+        for (char each: arr){
+            if(each==ch){
+                count++;
+            }
+        }
+        return count;
+    }
+
+
+
     // merge two array and return as a third one
 
     // max number from array
