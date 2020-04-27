@@ -1,5 +1,6 @@
 package Resources;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Library {
@@ -99,6 +100,17 @@ public class Library {
     }
 
 
+    //Maxsimum number from Array list
+    public static int max(ArrayList<Integer> list){
+
+        Integer max = Integer.MIN_VALUE;
+        for (int i=0; i<list.size(); i++){    //i: 0, 1, 2, 3, 4
+            if (list.get(i)>max){
+                max = list.get(i);
+            }
+        }
+        return max;
+    }
 
     // merge two array and return as a third one
 

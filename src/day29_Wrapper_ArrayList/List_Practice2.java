@@ -50,6 +50,31 @@ public class List_Practice2 {
         System.out.println(min);
 
 
+        ArrayList<Integer> list2 = new ArrayList<>();
+        list2.add(100);
+        list2.add(200);
+        list2.add(300);
+
+        int maximum3 = max(list2);
+        System.out.println(maximum3);
+
 
     }
+
+
+
+    public static int max(ArrayList<Integer> list){
+
+        Integer max = Integer.MIN_VALUE;
+        for (int i=0; i<list.size(); i++){    //i: 0, 1, 2, 3, 4
+            if (list.get(i)>max){
+                max = list.get(i);
+            }
+        }
+        return max;
+    }
+
+
+
+
 }
