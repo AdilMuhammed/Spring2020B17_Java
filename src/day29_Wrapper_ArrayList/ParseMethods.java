@@ -1,6 +1,6 @@
 package day29_Wrapper_ArrayList;
 
-public class ParseMethod {
+public class ParseMethods {
 
     public static void main(String[] args) {
 
