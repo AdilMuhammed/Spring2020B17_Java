@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +42,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueOfMethods">
-    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Birthday" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WrapperClass_Practice">
     <configuration name="ParseMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.ParseMethods" />
       <module name="Spring2020B17_Java" />
@@ -108,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperClass_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.WrapperClass_Practice" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperClass_Practice" />
         <item itemvalue="Application.ValueOfMethods" />
         <item itemvalue="Application.ParseMethods" />
         <item itemvalue="Application.WrapperClass" />
         <item itemvalue="Application.Replit" />
-        <item itemvalue="Application.Birthday" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +140,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587662221328" />
-    <state width="1311" height="109" key="GridCell.Tab.0.bottom" timestamp="1588005995856">
+    <state width="1311" height="109" key="GridCell.Tab.0.bottom" timestamp="1588012155823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="109" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588005995856" />
-    <state width="1311" height="109" key="GridCell.Tab.0.center" timestamp="1588005995856">
+    <state width="1311" height="109" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588012155823" />
+    <state width="1311" height="109" key="GridCell.Tab.0.center" timestamp="1588012155823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="109" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588005995856" />
-    <state width="1311" height="109" key="GridCell.Tab.0.left" timestamp="1588005995856">
+    <state width="1311" height="109" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588012155823" />
+    <state width="1311" height="109" key="GridCell.Tab.0.left" timestamp="1588012155823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="109" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588005995856" />
-    <state width="1311" height="109" key="GridCell.Tab.0.right" timestamp="1588005995856">
+    <state width="1311" height="109" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588012155823" />
+    <state width="1311" height="109" key="GridCell.Tab.0.right" timestamp="1588012155823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="109" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588005995856" />
+    <state width="1311" height="109" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588012155823" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
