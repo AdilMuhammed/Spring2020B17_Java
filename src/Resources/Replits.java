@@ -27,10 +27,15 @@ public class Replits {
 
     public static String clean (String text ,String badWord) {
 
+        String[] str = text.split(" ");
         String result = "";
-        while (text.contains(badWord)) {
-             result = text.replaceFirst(badWord, "");
+        for (String each : str){
+            if (each.equalsIgnoreCase(badWord)){
+                continue;
+            }
+            result += each;
         }
+        result = result.trim();
         return result;
 
     }

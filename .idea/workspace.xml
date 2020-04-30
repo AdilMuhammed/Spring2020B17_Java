@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_ContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_addAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_removeAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_retainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Replits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Replits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day31_BulkOperations/ArrayList_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day31_BulkOperations/ArrayList_Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Replits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Replits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +50,9 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayList_Methods (1)">
-    <configuration name="ArrayList_Methods (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.ArrayList_Methods" />
+  <component name="RunManager" selected="Application.RemoveDuplicates">
+    <configuration name="Bulk_ContainsAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_ContainsAll" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -56,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_29_2020.ArrayList_Methods" />
+    <configuration name="Bulk_addAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_addAll" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_04_29_2020.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_29_2020.ArrayList_Methods2" />
+    <configuration name="Bulk_removeAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_removeAll" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_04_29_2020.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.SumOfDigits" />
+    <configuration name="Bulk_retainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_retainAll" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="r149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Resources.r149" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.RemoveDuplicates" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Resources.*" />
+          <option name="PATTERN" value="day31_BulkOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayList_Methods (1)" />
-        <item itemvalue="Application.ArrayList_Methods2" />
-        <item itemvalue="Application.ArrayList_Methods" />
-        <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.r149" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.Bulk_retainAll" />
+        <item itemvalue="Application.Bulk_removeAll" />
+        <item itemvalue="Application.Bulk_addAll" />
+        <item itemvalue="Application.Bulk_ContainsAll" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +148,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587662221328" />
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588257531025">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588265513418">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588257531025" />
-    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588257531025">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588265513418" />
+    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588265513418">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588257531025" />
-    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588257531025">
+    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588265513418" />
+    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588265513418">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588257531025" />
-    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588257531025">
+    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588265513418" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588265513418">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588257531025" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588265513418" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -184,9 +192,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588183052445" />
-    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1587891143442">
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1588261435004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587891143442" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588261435004" />
   </component>
 </project>
