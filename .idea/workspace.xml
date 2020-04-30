@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Replits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/CombineTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Replit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +46,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="List_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.List_Intro" />
+  <component name="RunManager" selected="Application.ArrayList_Methods2">
+    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_29_2020.ArrayList_Methods" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
+          <option name="PATTERN" value="OfficeHours.Practice_04_29_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.List_Practice" />
+    <configuration name="ArrayList_Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_29_2020.ArrayList_Methods2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
+          <option name="PATTERN" value="OfficeHours.Practice_04_29_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayList_Methods2" />
+        <item itemvalue="Application.ArrayList_Methods" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.r149" />
         <item itemvalue="Application.List_Practice2" />
-        <item itemvalue="Application.List_Practice" />
-        <item itemvalue="Application.List_Intro" />
       </list>
     </recent_temporary>
   </component>
@@ -142,22 +144,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587662221328" />
-    <state width="1367" height="150" key="GridCell.Tab.0.bottom" timestamp="1588084635755">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588194731382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588084635755" />
-    <state width="1367" height="150" key="GridCell.Tab.0.center" timestamp="1588084635755">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588194731382" />
+    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588194731382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="150" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588084635755" />
-    <state width="1367" height="150" key="GridCell.Tab.0.left" timestamp="1588084635755">
+    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588194731382" />
+    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588194731382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="150" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588084635755" />
-    <state width="1367" height="150" key="GridCell.Tab.0.right" timestamp="1588084635755">
+    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588194731382" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588194731382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="150" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588084635755" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588194731382" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -182,10 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583638329368" />
-    <state x="0" y="0" key="new project wizard" timestamp="1587669734615">
+    <state x="0" y="0" key="new project wizard" timestamp="1588183052445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587669734615" />
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588183052445" />
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1587891143442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
