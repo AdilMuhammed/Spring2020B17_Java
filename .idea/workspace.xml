@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArraysList_Methods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/Unuque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Lambda_Expressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Quiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionsMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/Unuque.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Uniques">
+  <component name="RunManager" selected="Application.Lambda_Expressions">
     <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Methods" />
       <module name="Spring2020B17_Java" />
@@ -74,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.CollectionsMethod" />
+    <configuration name="Lambda_Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Lambda_Expressions" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unuque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Unuque" />
+    <configuration name="Unuques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Unuques" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lambda_Expressions" />
         <item itemvalue="Application.Uniques" />
         <item itemvalue="Application.ArraysList_Methods2" />
         <item itemvalue="Application.ArrayList_Methods" />
-        <item itemvalue="Application.Unuque" />
-        <item itemvalue="Application.CollectionsMethod" />
+        <item itemvalue="Application.Unuques" />
       </list>
     </recent_temporary>
   </component>
@@ -145,22 +142,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587662221328" />
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588360239654">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588364036845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588360239654" />
-    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588360239654">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588364036845" />
+    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588364036845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588360239654" />
-    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588360239654">
+    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588364036845" />
+    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588364036845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588360239654" />
-    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588360239654">
+    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588364036845" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588364036845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588360239654" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588364036845" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
