@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Duplicates2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Replits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Replits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Replits.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +45,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Duplicates">
-    <configuration name="Bulk_retainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.Bulk_retainAll" />
+  <component name="RunManager" selected="Application.CollectionsMethod">
+    <configuration name="CollectionsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.CollectionsMethod" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_BulkOperations.*" />
+          <option name="PATTERN" value="day32_Predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.MoveZeros" />
+    <configuration name="Duplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Duplicates2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_BulkOperations.RemoveDuplicates" />
+    <configuration name="Replits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Resources.Replits" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_BulkOperations.*" />
+          <option name="PATTERN" value="Resources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsMethod" />
+        <item itemvalue="Application.Replits" />
+        <item itemvalue="Application.Duplicates2" />
         <item itemvalue="Application.Duplicates" />
         <item itemvalue="Application.MoveZeros2" />
-        <item itemvalue="Application.MoveZeros" />
-        <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.Bulk_retainAll" />
       </list>
     </recent_temporary>
   </component>
@@ -142,22 +143,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587662221328" />
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588345105729">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588348958544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588345105729" />
-    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588345105729">
+    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588348958544" />
+    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588348958544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588345105729" />
-    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588345105729">
+    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588348958544" />
+    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588348958544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588345105729" />
-    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588345105729">
+    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588348958544" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588348958544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588345105729" />
+    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588348958544" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
