@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ObjectMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/AppleINC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/DevelopersObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/TesterObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/instanceVariables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +48,35 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CapitalOne">
-    <configuration name="BankOfAmerica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.BankOfAmerica" />
+  <component name="RunManager" selected="Application.AppleINC">
+    <configuration name="AppleINC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_05_06_2020.AppleINC" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_05_06_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DevelopersObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_05_06_2020.DevelopersObject" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_05_06_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.ObjectMemory" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -56,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.CapitalOne" />
+    <configuration name="TesterObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_05_06_2020.TesterObject" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="OfficeHours.Practice_05_06_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,38 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects" />
+    <configuration name="instanceVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_05_06_2020.instanceVariables" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogObjects2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects2" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.StudentObjects" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="OfficeHours.Practice_05_06_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CapitalOne" />
-        <item itemvalue="Application.BankOfAmerica" />
-        <item itemvalue="Application.StudentObjects" />
-        <item itemvalue="Application.DogObjects2" />
-        <item itemvalue="Application.DogObjects" />
+        <item itemvalue="Application.AppleINC" />
+        <item itemvalue="Application.DevelopersObject" />
+        <item itemvalue="Application.TesterObject" />
+        <item itemvalue="Application.instanceVariables" />
+        <item itemvalue="Application.ObjectMemory" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588704839445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day34 Class">
+      <created>1588709677734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588709677734</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day34 Class">
+      <created>1588709719206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588709719206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,26 +168,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587155929803" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1588709676735">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1588709718175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709676735" />
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom" timestamp="1588708286612">
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709718175" />
+    <state width="1311" height="205" key="GridCell.Tab.0.bottom" timestamp="1588798696752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588708286612" />
-    <state width="1311" height="141" key="GridCell.Tab.0.center" timestamp="1588708286612">
+    <state width="1311" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588798696752" />
+    <state width="1311" height="205" key="GridCell.Tab.0.center" timestamp="1588798696752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588708286612" />
-    <state width="1311" height="141" key="GridCell.Tab.0.left" timestamp="1588708286612">
+    <state width="1311" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588798696752" />
+    <state width="1311" height="205" key="GridCell.Tab.0.left" timestamp="1588798696752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588708286612" />
-    <state width="1311" height="141" key="GridCell.Tab.0.right" timestamp="1588708286612">
+    <state width="1311" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588798696752" />
+    <state width="1311" height="205" key="GridCell.Tab.0.right" timestamp="1588798696752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588708286612" />
+    <state width="1311" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588798696752" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
