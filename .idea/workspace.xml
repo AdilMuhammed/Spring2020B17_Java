@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/MyOffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/studentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/CapitalOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/HumanResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_Static/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_Static/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +52,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.staticPractice2">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Static.Dog" />
+  <component name="RunManager" selected="Application.StaticBlock4">
+    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.CapitalOne" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Static.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Static.staticMethods" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Static.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Static.staticPractice" />
+    <configuration name="StaticBlock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Static.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Static.staticPractice2" />
+    <configuration name="StaticBlock4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock4" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Static.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticVariables2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Static.staticVariables2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Test" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Static.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.staticPractice2" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.staticPractice" />
-        <item itemvalue="Application.staticMethods" />
-        <item itemvalue="Application.staticVariables2" />
+        <item itemvalue="Application.StaticBlock4" />
+        <item itemvalue="Application.CapitalOne" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StaticBlock2" />
+        <item itemvalue="Application.StaticBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -179,22 +180,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709718175" />
-    <state width="1311" height="205" key="GridCell.Tab.0.bottom" timestamp="1588869915670">
+    <state width="1311" height="205" key="GridCell.Tab.0.bottom" timestamp="1588950562096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588869915670" />
-    <state width="1311" height="205" key="GridCell.Tab.0.center" timestamp="1588869915670">
+    <state width="1311" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588950562096" />
+    <state width="1311" height="205" key="GridCell.Tab.0.center" timestamp="1588950562096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588869915670" />
-    <state width="1311" height="205" key="GridCell.Tab.0.left" timestamp="1588869915670">
+    <state width="1311" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588950562096" />
+    <state width="1311" height="205" key="GridCell.Tab.0.left" timestamp="1588950562096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588869915670" />
-    <state width="1311" height="205" key="GridCell.Tab.0.right" timestamp="1588869915670">
+    <state width="1311" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588950562096" />
+    <state width="1311" height="205" key="GridCell.Tab.0.right" timestamp="1588950562096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588869915670" />
+    <state width="1311" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588950562096" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

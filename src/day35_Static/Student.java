@@ -1,6 +1,6 @@
 package day35_Static;
 
-public class student {  // for CybertekSchool
+public class Student {  // for CybertekSchool
     /*
     create a custom class called student
             Attribute:
