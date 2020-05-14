@@ -2,32 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/BankOfAzerbaijan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/CarObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/ConstructorIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/CybertekStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/ImportSatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Question12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/StaticsReveiw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/StuentsObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/CircleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/DogObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/EmployeeSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ShoppingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/AccessModifier_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/CheckInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/CarObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/CheckInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/PersonalInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +52,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="ConstructorCalls2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorCalls2" />
+  <component name="RunManager" selected="Application.EmployeeObjects">
+    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.CarObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="PATTERN" value="day39_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.DogObjects" />
+    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.EmployeeObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="PATTERN" value="day39_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeObjects" />
+        <item itemvalue="Application.CarObjects" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ConstructorPractice" />
         <item itemvalue="Application.ConstructorCalls3" />
-        <item itemvalue="Application.ConstructorCalls2" />
-        <item itemvalue="Application.DogObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -196,22 +180,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709718175" />
-    <state width="1311" height="268" key="GridCell.Tab.0.bottom" timestamp="1589313545487">
+    <state width="1311" height="140" key="GridCell.Tab.0.bottom" timestamp="1589470718901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589313545487" />
-    <state width="1311" height="268" key="GridCell.Tab.0.center" timestamp="1589313545487">
+    <state width="1311" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
+    <state width="1311" height="140" key="GridCell.Tab.0.center" timestamp="1589470718901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="268" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589313545487" />
-    <state width="1311" height="268" key="GridCell.Tab.0.left" timestamp="1589313545487">
+    <state width="1311" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
+    <state width="1311" height="140" key="GridCell.Tab.0.left" timestamp="1589470718901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="268" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589313545487" />
-    <state width="1311" height="268" key="GridCell.Tab.0.right" timestamp="1589313545487">
+    <state width="1311" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
+    <state width="1311" height="140" key="GridCell.Tab.0.right" timestamp="1589470718901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="268" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589313545487" />
+    <state width="1311" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
