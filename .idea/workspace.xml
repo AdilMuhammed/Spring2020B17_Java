@@ -2,16 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Resources/AccessModifier_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/CheckInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/CarObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/CheckInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/EmployeeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/PersonalInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Encapsulations_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/StoreProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/BankOfAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Credentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/CredentialsObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/NestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Person_Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/AudioBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankOfAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BooksObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Ebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/BusinessAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/AccountObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Accessmodifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/InheritanceReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/DeviceObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Tesla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +103,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeObjects">
-    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.CarObjects" />
+  <component name="RunManager" selected="Application.CarShop">
+    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43MethodOverriding.CarShop" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_AccessModifiers.*" />
+          <option name="PATTERN" value="day43MethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorCalls3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorCalls3" />
+    <configuration name="InheritanceReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.InheritanceReview" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="PATTERN" value="day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorPractice" />
+    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43MethodOverriding.MethodOverriding" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="PATTERN" value="day43MethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.EmployeeObjects" />
+    <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43MethodOverriding.ShapeObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_AccessModifiers.*" />
+          <option name="PATTERN" value="day43MethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.Test" />
+    <configuration name="SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.SuperKeyword" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="PATTERN" value="day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeObjects" />
-        <item itemvalue="Application.CarObjects" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ConstructorPractice" />
-        <item itemvalue="Application.ConstructorCalls3" />
+        <item itemvalue="Application.CarShop" />
+        <item itemvalue="Application.ShapeObjects" />
+        <item itemvalue="Application.MethodOverriding" />
+        <item itemvalue="Application.InheritanceReview" />
+        <item itemvalue="Application.SuperKeyword" />
       </list>
     </recent_temporary>
   </component>
@@ -168,10 +219,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day34 Class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155929803">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1590075218514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587155929803" />
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590075218514" />
+    <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589913482891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589913482891" />
     <state x="383" y="186" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588867697219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,22 +235,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709718175" />
-    <state width="1311" height="140" key="GridCell.Tab.0.bottom" timestamp="1589470718901">
+    <state width="1311" height="192" key="GridCell.Tab.0.bottom" timestamp="1590076069946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
-    <state width="1311" height="140" key="GridCell.Tab.0.center" timestamp="1589470718901">
+    <state width="1311" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
+    <state width="1311" height="192" key="GridCell.Tab.0.center" timestamp="1590076069946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
-    <state width="1311" height="140" key="GridCell.Tab.0.left" timestamp="1589470718901">
+    <state width="1311" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
+    <state width="1311" height="192" key="GridCell.Tab.0.left" timestamp="1590076069946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
-    <state width="1311" height="140" key="GridCell.Tab.0.right" timestamp="1589470718901">
+    <state width="1311" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
+    <state width="1311" height="192" key="GridCell.Tab.0.right" timestamp="1590076069946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589470718901" />
+    <state width="1311" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -220,6 +275,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583638329368" />
+    <state x="461" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589912724527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589912724527" />
     <state x="0" y="0" key="new project wizard" timestamp="1588183052445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -228,5 +287,19 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588623765947" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day43MethodOverriding/Tesla.java</url>
+          <line>4</line>
+          <properties class="day43MethodOverriding.Tesla" method="start">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
