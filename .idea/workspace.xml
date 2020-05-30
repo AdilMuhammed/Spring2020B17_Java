@@ -2,67 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Resources/Encapsulations_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/StoreProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/CredentialsObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/EmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/NestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Person_Objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BooksObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Ebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/BusinessAnalyst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/EmployeeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/AccountObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Accessmodifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/InheritanceReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/DeviceObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/ShapeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43MethodOverriding/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Browsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/ExceptionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/finally_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/multi_catchBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/try_catchBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/try_catchBlocks2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/warmUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,13 +61,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarShop">
-    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43MethodOverriding.CarShop" />
+  <component name="RunManager" selected="Application.CustomException">
+    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.CustomException" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43MethodOverriding.*" />
+          <option name="PATTERN" value="day45_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.InheritanceReview" />
+    <configuration name="ThrowKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowKeyword" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="day45_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43MethodOverriding.MethodOverriding" />
+    <configuration name="ThrowKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowKeyword2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43MethodOverriding.*" />
+          <option name="PATTERN" value="day45_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43MethodOverriding.ShapeObjects" />
+    <configuration name="ThrowsKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowsKeyword" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43MethodOverriding.*" />
+          <option name="PATTERN" value="day45_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.SuperKeyword" />
+    <configuration name="ThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowsKeyword2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="day45_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarShop" />
-        <item itemvalue="Application.ShapeObjects" />
-        <item itemvalue="Application.MethodOverriding" />
-        <item itemvalue="Application.InheritanceReview" />
-        <item itemvalue="Application.SuperKeyword" />
+        <item itemvalue="Application.CustomException" />
+        <item itemvalue="Application.ThrowKeyword2" />
+        <item itemvalue="Application.ThrowKeyword" />
+        <item itemvalue="Application.ThrowsKeyword2" />
+        <item itemvalue="Application.ThrowsKeyword" />
       </list>
     </recent_temporary>
   </component>
@@ -235,22 +193,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709718175" />
-    <state width="1311" height="192" key="GridCell.Tab.0.bottom" timestamp="1590076069946">
+    <state width="1311" height="192" key="GridCell.Tab.0.bottom" timestamp="1590780843087">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
-    <state width="1311" height="192" key="GridCell.Tab.0.center" timestamp="1590076069946">
+    <state width="1311" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590780843087" />
+    <state width="1311" height="192" key="GridCell.Tab.0.center" timestamp="1590780843087">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
-    <state width="1311" height="192" key="GridCell.Tab.0.left" timestamp="1590076069946">
+    <state width="1311" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590780843087" />
+    <state width="1311" height="192" key="GridCell.Tab.0.left" timestamp="1590780843087">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
-    <state width="1311" height="192" key="GridCell.Tab.0.right" timestamp="1590076069946">
+    <state width="1311" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590780843087" />
+    <state width="1311" height="192" key="GridCell.Tab.0.right" timestamp="1590780843087">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590076069946" />
+    <state width="1311" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590780843087" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
