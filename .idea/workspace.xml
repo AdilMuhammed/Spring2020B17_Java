@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8d80d7-05cb-42a4-8b25-ef8cd98b0e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day51_Recap/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day51_Recap/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day51_Recap/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day51_Recap/ShapeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collection/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collection/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collection/Q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collection/null_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collection/sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Collection_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Iterating_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Iterating_Collection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/GarbageCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_SetEntries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_setEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Maps_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/String_VS_Buffer_VS_Builder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +49,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Iterating_Collection2">
-    <configuration name="Collections_Utility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collection.Collections_Utility" />
+  <component name="RunManager" selected="Application.String_VS_Buffer_VS_Builder">
+    <configuration name="GarbageCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.GarbageCollector" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collection.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iterating_Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Iterator_Maps.Iterating_Collection" />
+    <configuration name="Map_SetEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_SetEntries" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53_Iterator_Maps.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iterating_Collection2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Iterator_Maps.Iterating_Collection2" />
+    <configuration name="Map_setEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_setEntry" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53_Iterator_Maps.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collection.Practice" />
+    <configuration name="Maps_Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.Maps_Practice1" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collection.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collection.sets" />
+    <configuration name="String_VS_Buffer_VS_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.String_VS_Buffer_VS_Builder" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collection.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Iterating_Collection2" />
-        <item itemvalue="Application.Iterating_Collection" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Collections_Utility" />
-        <item itemvalue="Application.sets" />
+        <item itemvalue="Application.String_VS_Buffer_VS_Builder" />
+        <item itemvalue="Application.GarbageCollector" />
+        <item itemvalue="Application.Map_setEntry" />
+        <item itemvalue="Application.Maps_Practice1" />
+        <item itemvalue="Application.Map_SetEntries" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +185,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588709718175" />
-    <state width="1367" height="161" key="GridCell.Tab.0.bottom" timestamp="1593103534852">
+    <state width="1367" height="161" key="GridCell.Tab.0.bottom" timestamp="1593456625880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593103534852" />
-    <state width="1367" height="161" key="GridCell.Tab.0.center" timestamp="1593103534852">
+    <state width="1367" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593456625880" />
+    <state width="1367" height="161" key="GridCell.Tab.0.center" timestamp="1593456625880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593103534852" />
-    <state width="1367" height="161" key="GridCell.Tab.0.left" timestamp="1593103534852">
+    <state width="1367" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593456625880" />
+    <state width="1367" height="161" key="GridCell.Tab.0.left" timestamp="1593456625880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593103534851" />
-    <state width="1367" height="161" key="GridCell.Tab.0.right" timestamp="1593103534852">
+    <state width="1367" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593456625880" />
+    <state width="1367" height="161" key="GridCell.Tab.0.right" timestamp="1593456625880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593103534852" />
+    <state width="1367" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593456625880" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom" timestamp="1585687680072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,10 +229,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591067993299" />
-    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1592232252299">
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1593445628805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592232252299" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593445628805" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
